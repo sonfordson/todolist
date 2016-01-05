@@ -4,11 +4,11 @@
 
 
     @if (! Auth::check())
-        <h1>Project Management for Human Beings</h1>
+        <h1>Project Management Systems</h1>
 
-        <p>The promise of Prego is simple. All your projects and todos on one screen without having to filter by team or users. Finally, project management built just for humanbeings. Very Intuitve, Slick and crafted with the power of Laravel</p>
+        <p> All your projects and todos on one screen without having to filter by team or users. </p>
 
-        <p><img src="{{ asset('images/projectmanagement.gif') }}" /></p>
+
 
         <a class="btn btn-large btn-info" href="/auth/register">Sign Up</a>
 

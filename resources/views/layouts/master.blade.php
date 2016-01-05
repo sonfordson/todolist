@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width">
-    <title>Prego - Project Management App</title>
+    <title>Project Management System</title>
     <meta name="description" content="Prego is a project management app built for learning purposes">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>

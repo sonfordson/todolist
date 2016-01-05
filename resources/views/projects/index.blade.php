@@ -18,7 +18,7 @@
                       <h2><a href="/projects/{{ $proj->id }}">{!! $proj->project_name !!}</a></h2>
                       <p>Due : {!! date_format(new DateTime($proj->due_date), "D, m Y") !!}</p>
                       <p>Status: {!! $proj->project_status !!}</p>
-                      <p>Tasks: 0</p>
+                      <p>Milestone: 0</p>
                       <p>Comments: 0</p>
                       <p>Attachments: 0</p>
                     </div>
